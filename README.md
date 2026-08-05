@@ -142,6 +142,3 @@ Swap in your own brand, industry, budget, and audience to repurpose the whole sy
 - All data sources in this notebook (`MARKET_TRENDS_DB`, `COMPETITOR_DB`, `CAMPAIGN_PERFORMANCE_DB`) are **mocked** for demonstration purposes — swap them for real integrations before production use.
 - The relevance guardrail and human-approval step are meant to be extended, not bypassed, if you adapt this for a real budget.
 
-## License
-
-Add a license of your choice (e.g. MIT) here.
